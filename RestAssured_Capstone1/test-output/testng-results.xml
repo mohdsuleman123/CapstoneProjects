@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-19T07:00:37Z" name="Suite" finished-at="2022-02-19T07:00:41Z" duration-ms="3641">
+    <groups>
+    </groups>
+    <test started-at="2022-02-19T07:00:37Z" name="Test" finished-at="2022-02-19T07:00:41Z" duration-ms="3641">
+      <class name="RestAssuredTestCase.GETRequestDemo">
+        <test-method signature="Get_Request()[pri:0, instance:RestAssuredTestCase.GETRequestDemo@1583741e]" started-at="2022-02-19T07:00:37Z" name="Get_Request" finished-at="2022-02-19T07:00:39Z" duration-ms="2208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Request -->
+      </class> <!-- RestAssuredTestCase.GETRequestDemo -->
+      <class name="RestAssuredTestCase.Test_POST">
+        <test-method signature="PutRequest()[pri:0, instance:RestAssuredTestCase.Test_POST@5b367418]" started-at="2022-02-19T07:00:39Z" name="PutRequest" finished-at="2022-02-19T07:00:40Z" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutRequest -->
+      </class> <!-- RestAssuredTestCase.Test_POST -->
+      <class name="RestAssuredTestCase.Test_PUT">
+        <test-method signature="putRequest()[pri:0, instance:RestAssuredTestCase.Test_PUT@481ba2cf]" started-at="2022-02-19T07:00:40Z" name="putRequest" finished-at="2022-02-19T07:00:41Z" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putRequest -->
+      </class> <!-- RestAssuredTestCase.Test_PUT -->
+      <class name="RestAssuredTestCase.Test_Delete">
+        <test-method signature="PutRequest()[pri:0, instance:RestAssuredTestCase.Test_Delete@36060e]" started-at="2022-02-19T07:00:40Z" name="PutRequest" finished-at="2022-02-19T07:00:40Z" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutRequest -->
+      </class> <!-- RestAssuredTestCase.Test_Delete -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
